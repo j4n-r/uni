@@ -1,0 +1,6 @@
+[submodule "DealOrNoDeal_OOP1"]
+	path = DealOrNoDeal_OOP1
+	url = git@github.com:j4n-r/DealOrNoDeal_OOP1.git
+[submodule "OOP2_Bomberman_Game"]
+	path = OOP2_Bomberman_Game
+	url = git@github.com:j4n-r/OOP2_Bomberman_Game.git
