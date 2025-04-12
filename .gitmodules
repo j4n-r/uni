@@ -4,3 +4,6 @@
 [submodule "OOP2_Bomberman_Game"]
 	path = OOP2_Bomberman_Game
 	url = git@github.com:j4n-r/OOP2_Bomberman_Game.git
+[submodule "E-Business_SleepSync_Web"]
+	path = E-Business_SleepSync_Web
+	url = https://github.com/j4n-r/E-Business_SleepSync_Web
